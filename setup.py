@@ -6,5 +6,5 @@ from setuptools import setup  # type: ignore[import]
 setup(
     name='pre_commit_placeholder_package',
     version='0.0.0',
-    install_requires=['basedmypy==1.8.0'],
+    install_requires=['basedmypy==2.0.0'],
 )
